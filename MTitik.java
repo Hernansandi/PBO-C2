@@ -1,3 +1,9 @@
+/*
+ * File : MTitik.java
+ * Penulis : Hernan Sandi Laksono (24060121130078)
+ * Deskripsi : kelas yang berisi program Titik
+ */
+
 class MTitik{
   public static void main (String[] args){
    Titik t1 = new Titik();
