@@ -1,5 +1,5 @@
 /*
- * File : MOperasiTitik.java
+ * File : MOperasiTitik.java (01/03/2023)
  * Penulis : Hernan Sandi Laksono (24060121130078)
  * Deskripsi : kelas yang berisi program utama operasi Titik
  */
