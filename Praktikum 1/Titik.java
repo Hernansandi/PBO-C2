@@ -1,5 +1,5 @@
 /*
- * File : Titik.java
+ * File : Titik.java (28/02/2023)
  * Penulis : Hernan Sandi Laksono (24060121130078)
  * Deskripsi : kelas yang berisi program Titik
  */
