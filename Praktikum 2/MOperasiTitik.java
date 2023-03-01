@@ -1,3 +1,9 @@
+/*
+ * File : MOperasiTitik.java
+ * Penulis : Hernan Sandi Laksono (24060121130078)
+ * Deskripsi : kelas yang berisi program utama operasi Titik
+ */
+
 class MOperasiTitik{
   public static void main(String[] args){
     Titik titik1 = new Titik(1.0, 2.0);
