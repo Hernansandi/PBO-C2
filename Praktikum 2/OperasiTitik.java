@@ -1,3 +1,9 @@
+/*
+ * File : OperasiTitik.java
+ * Penulis : Hernan Sandi Laksono (24060121130078)
+ * Deskripsi : kelas yang berisi program operasi Titik
+ */
+
 class OperasiTitik{
   private void refleksiSumbuX(Titik titik){
     double ordinat = titik.getOrdinat();
