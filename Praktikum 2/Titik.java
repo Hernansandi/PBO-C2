@@ -1,3 +1,9 @@
+/*
+ * File : Titik.java
+ * Penulis : Hernan Sandi Laksono (24060121130078)
+ * Deskripsi : kelas yang berisi program Titik
+ */
+
 class Titik{
   private double absis;
   private double ordinat;
