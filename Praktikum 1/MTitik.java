@@ -1,5 +1,5 @@
 /*
- * File : MTitik.java
+ * File : MTitik.java  (28/02/2023)
  * Penulis : Hernan Sandi Laksono (24060121130078)
  * Deskripsi : kelas yang berisi program utama berupa Titik
  */
