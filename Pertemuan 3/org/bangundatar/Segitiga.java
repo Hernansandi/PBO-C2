@@ -25,3 +25,4 @@ public class Segitiga extends Poligon{
     System.out.println("Bangun Segitiga berisi "+this.getJumlahSisi());
   }
 }
+
