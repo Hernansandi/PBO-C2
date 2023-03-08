@@ -1,3 +1,9 @@
+/*
+ * File : PersegiPanjang.java  (28/02/2023)
+ * Penulis : Hernan Sandi Laksono (24060121130078)
+ * Deskripsi : representasi dari objek persegi panjang, turunan kelas poligon
+ */
+
 package org.bangundatar;
 
 import org.poligon.Poligon;
