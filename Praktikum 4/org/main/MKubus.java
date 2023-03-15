@@ -1,5 +1,5 @@
 /*
- * File : MKubus.java  (08/03/2023)
+ * File : MKubus.java  (15/03/2023)
  * Penulis : Hernan Sandi Laksono (24060121130078)
  * Deskripsi : driver class untuk Kubus
  */
