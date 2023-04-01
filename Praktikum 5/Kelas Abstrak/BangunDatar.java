@@ -1,5 +1,5 @@
 /*
- * File : BujurDatar.java  (30/03/2023)
+ * File : BangunDatar.java  (30/03/2023)
  * Penulis : Hernan Sandi Laksono (24060121130078)
  * Deskripsi : kelas abstrak, berisi abstraksi bangun datar
  */
